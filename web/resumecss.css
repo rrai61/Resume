@@ -1,0 +1,55 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Aug 29, 2016, 7:37:56 PM
+    Author     : ritu
+*/
+body {
+    font-family: "Times New Roman", Helvetica, Arial, sans-serif;
+}
+
+.info {
+    position: relative;
+    left: 30px;
+    right: 0;
+    text-align: center;
+    margin-right: 190px;
+    font-weight: bold;
+}
+
+.section {
+    position: relative;
+    left: 30px;
+    right: 0;
+    padding: 30px;
+    text-align: center;
+    margin-right: 190px;
+    font-weight: bold;
+}
+
+.skills {
+    position: relative;
+    left: 30px;
+    right: 0;
+    text-align: center;
+    margin-right: 190px;
+}
+
+#education {
+    position: relative;
+    left: 30px;
+    right: 0;
+    text-align: center;
+    margin-right: 300px;
+}
+
+#eduTitle {
+    margin-right: 190px;
+    position: relative;
+    left: 30px;
+    right: 0;
+}
+
